@@ -1,4 +1,4 @@
-# 🌾 Crop Yield Prediction using Random Forest and K-Nearest Neighbors
+# 🌾MACHINE LEARNING PROJECT -  Crop Yield Prediction using Random Forest and K-Nearest Neighbors
 
 ## 🧠 Overview
 This project focuses on predicting **crop yield** using machine learning models. Specifically, it compares the performance of **Random Forest Regressor** and **K-Nearest Neighbors Regressor (KNN)** to understand which algorithm better captures the underlying patterns in the data.
